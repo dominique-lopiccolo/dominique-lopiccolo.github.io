@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome ~ Bienvenidos ~ مرحبا"
+title: "Welcome to my site :hot beverage:!"
 author_profile: true
 redirect_from: 
   - /about/
