@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my site! :coffee:"
+title: "Welcome to my site! ☕"
 author_profile: true
 redirect_from: 
   - /about/
