@@ -1,22 +1,28 @@
 # main links links
 main:
+  - title: "CV"
+    url: /cv/
+  
   - title: "Publications"
     url: /publications/
 
+  - title: "Research Foci"
+    url: /research-foci/    
+  
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  # - title: "Fun"
+  #   url: /fun/    
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
