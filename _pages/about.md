@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome to my site :hot beverage:!"
+title: "Welcome to my site! :coffee:"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! My name is Dominique Lopiccolo. I am a second year PhD student in the Interdisciplinary Neuroscience graduate program at the University of Delaware. Prior to starting my PhD, I completed a bachelor's and master's degree in linguistics. Then I moved to Amman, Jordan, on a Fulbright scholarship to teach at the University of Petra and conduct research on numerical processing in Arabic readers. 
+Hello! My name is Dominique Lopiccolo. I am a second year PhD student in the Interdisciplinary Neuroscience program at the University of Delaware. Prior to starting my PhD, I completed a bachelor's and master's degree in linguistics. Then I moved to Amman, Jordan, on a Fulbright scholarship to teach at the University of Petra and conduct research on numerical processing in Arabic readers. 
 
 
  worked as a research assistant for two years, first with Dr. Gavin Price at Vanderbilt University examining the longitudinal development of numeracy using behavioral and neuroimaging (fMRI) measures and then with Dr. Melissa Libertus at the University of Pittsburgh studying the effects of the home environment on early mathematical development. Before this, I conducted research 
