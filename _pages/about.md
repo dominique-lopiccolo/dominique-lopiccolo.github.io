@@ -21,6 +21,20 @@ While my academic journey has been anything but linear, I am grateful for the sp
 
 Please enjoy meandering around . . . 👣
 
-![Dominique in front of the Blue Mosque in Istanbul](/images/istanbul.jpeg){: .align-left width="300px"}
-![Dominique riding a camel near the Dead Sea](/images/dead-sea.jpg){: .align-center width="300px"}
-![Dominique in Wadi Rum](/images/wadi-rum.jpg){: .align-right width="300px"}
+<p align="left">
+  <img src="/images/istanbul.jpeg" alt="Dominique backpacking in Istanbul." width="200" height="200">
+  <br>
+  <em>"Backpacking Istanbul".</em>
+</p>
+
+<p align="center">
+  <img src="/images/dead-sea.jpg" alt="Dominique riding a camel near the Dead Sea." width="200" height="200">
+  <br>
+  <em>"<i>Accidental</i> camel riding in Jordan".</em>
+</p>
+
+<p align="right">
+  <img src="/images/wadi-rum.jpg" alt="Dominique in Wadi Rum." width="200" height="200">
+  <br>
+  <em>"'Hanging out' in Wadi Rum".</em>
+</p>
