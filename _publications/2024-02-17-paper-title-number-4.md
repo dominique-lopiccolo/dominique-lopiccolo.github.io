@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "Cultural factors weaken but do not reverse left-to-right spatial biases in numerosity processing: Data from Arabic and English monoliterates and Arabic-English biliterates"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2021-SNARC-Effect-Arabic-English
+excerpt: 'Directional response biases due to a conceptual link between space and number, such as a left-to-right hand bias for increasing numerical magnitude, are known as the SNARC (Spatial-Numerical Association of Response Codes) effect. We investigated how the SNARC effect for numerosities would be influenced by reading-writing direction, task instructions, and ambient visual environment in four literate populations exemplifying opposite reading-writing cultures—namely, Arabic (right-to-left script) and English (left-to-right script). Monoliterates and biliterates in Jordan and the U.S. completed a speeded numerosity comparison task to assess the directionality and magnitude of a SNARC effect in their numerosity processing. Monoliterates’ results replicated previously documented effects of reading-writing direction and task instructions: the SNARC effect found in left-to-right readers was weakened in right-to-left readers, and the left-to-right group exhibited a task-dependency effect (SNARC effect in the smaller condition, reverse SNARC effect in the larger condition). Biliterates’ results did not show a clear effect of environment; instead, both biliterate groups resembled English monoliterates in showing a left-to-right, task-dependent SNARC effect, albeit weaker than English monoliterates’. The absence of significant biases in all Arabic-reading groups (biliterates and Arabic monoliterates) points to a potential conflict between distinct spatial-numerical mapping codes. This view is explained in terms of the proposed Multiple Competing Codes Theory (MCCT), which posits three distinct spatial-numerical mapping codes (innate, cardinal, ordinal) during numerical processing—each involved at varying levels depending on individual and task factors.'
+date: 2021-10-16
+venue: 'PLOS ONE'
+paperurl: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261146'
+citation: 'Lopiccolo, D., and Chang, C. B. (2021). Cultural factors weaken but do not reverse left-to-right spatial biases in numerosity processing: Data from Arabic and English monoliterates and Arabic-English biliterates, <i>PLOS ONE, 16</i>(12), e0261146.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
