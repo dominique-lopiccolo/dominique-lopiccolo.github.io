@@ -1,14 +1,12 @@
 ---
 permalink: /
-# title: "About the Scientist"
+title: "Bio 🌱"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Bio 🌱
-
+<br><br>
 Hi! My name is Dominique Lopiccolo. I am a second year PhD student in the [Interdisciplinary Neuroscience Program](https://www.udel.edu/academics/colleges/grad/prospective-students/programs/interdisciplinary/interdisciplinary-neuroscience/degree-requirements/) at the University of Delaware working with the extraordinary [Dr. Alon Hafri](https://www.psych.udel.edu/people/alon). 
 
 Prior to starting my PhD, I completed a master's degree in applied linguistics under the inimitable [Dr. Charles B. Chang](https://ling.bu.edu/people/chang/) at Boston University. 
@@ -25,7 +23,7 @@ Please enjoy meandering around . . . 👣
 <br><br>
 
 # Travels 🌎
-
+<br><br>
 <div style="display: flex; justify-content: space-between;">
   <img src="/images/istanbul.jpeg" alt="Istanbul" style="width: 30%;">
   <img src="/images/dead-sea.jpg" alt="Camel riding" style="width: 30%;">
