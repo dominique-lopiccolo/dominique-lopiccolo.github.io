@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Dominique S. Lopiccolo"
+title: "Dominique Lopiccolo "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 <br>
+
+## About Me 🖋️
 Hi! I am a second year PhD student in the [Interdisciplinary Neuroscience Program](https://www.udel.edu/academics/colleges/grad/prospective-students/programs/interdisciplinary/interdisciplinary-neuroscience/degree-requirements/) at the University of Delaware working with the extraordinary [Dr. Alon Hafri](https://www.psych.udel.edu/people/alon). 
 
 Prior to starting my PhD, I completed a master's degree in applied linguistics under the inimitable [Dr. Charles B. Chang](https://ling.bu.edu/people/chang/) at Boston University. 
@@ -20,33 +22,10 @@ I simultaneously took my first stab at the PhD application cycle, and whilst uns
 While my academic journey has been anything but linear, I am grateful for the special people and places I have come across so far. If you have a knack for anything <i>language-y</i>, <i>math-y</i>, or <i>cog/neuro-y</i>, please drop me a note. I thrive off of intellectual <b>collaboration</b>!
 <br><br>
 
-# Travels 🌎
+## Travels 🌎
 <br>
 <div style="display: flex; justify-content: space-between;">
   <img src="/images/istanbul.jpeg" alt="Istanbul" style="width: 30%;">
   <img src="/images/dead-sea.jpg" alt="Camel riding" style="width: 30%;">
   <img src="/images/wadi-rum.jpg" alt="Wadi Rum" style="width: 30%;">
 </div>
-
-<!-- ![Dominique in front of the Blue Mosque](/images/istanbul.jpeg){: .align-left width="200px"}
-![Dominique riding a camel](/images/dead-sea.jpg){: .align-center width="200px"}
-![Dominique in Wadi Rum](/images/wadi-rum.jpg){: .align-right width="200px"} -->
-
-<!-- <p align="left">
-  <img src="/images/istanbul.jpeg" alt="Dominique backpacking in Istanbul." width="200" height="200">
-  <br>
-  <em>"Backpacking Istanbul".</em>
-</p>
-
-<p align="center">
-  <img src="/images/dead-sea.jpg" alt="Dominique riding a camel near the Dead Sea." width="200" height="200">
-  <br>
-  <em>"<i>Accidental</i> camel riding in Jordan".</em>
-</p>
-
-<p align="right">
-  <img src="/images/wadi-rum.jpg" alt="Dominique in Wadi Rum." width="200" height="200">
-  <br>
-  <em>"'Hanging out' in Wadi Rum".</em>
-</p> -->
-
