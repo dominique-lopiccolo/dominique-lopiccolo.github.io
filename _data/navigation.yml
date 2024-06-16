@@ -4,8 +4,8 @@ main:
     # url: /cv/
     url: /files/Resume.pdf
 
-  - title: "Research Areas"
-    url: /research-areas/   
+  # - title: "Research Areas"
+  #   url: /research-areas/   
   
   - title: "Publications"
     url: /publications/ 
