@@ -22,9 +22,9 @@ repository               : "dominique-lopiccolo/dominique-lopiccolo.github.io"
 author:
   # Biographic information
   avatar           : "prof_pic_short_hair_cropped.jpeg"
-  # name             : "Dominique Lopiccolo"
+  name             : "Dominique Lopiccolo"
   # pronouns         : # example: "she/her"  
-  # bio              : "Cog Neuro PhD Student"
+  bio              : "Cog Neuro PhD Student"
   location         : "Delaware, U.S.A."
   employer         : "University of Delaware"
   uri              : # URL
