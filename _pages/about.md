@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "You are here 📍"
+title: "Bio 🌱"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My name is Dominique Lopiccolo. I am a second year PhD student in the [Interdisciplinary Neuroscience Program](https://www.udel.edu/academics/colleges/grad/prospective-students/programs/interdisciplinary/interdisciplinary-neuroscience/degree-requirements/) at the University of Delaware working with the extraordinary [Dr. Alon Hafri](https://www.psych.udel.edu/people/alon). 
+Hi! My name is Dominique Lopiccolo. I am a second year PhD student in the [Interdisciplinary Neuroscience Program](https://www.udel.edu/academics/colleges/grad/prospective-students/programs/interdisciplinary/interdisciplinary-neuroscience/degree-requirements/) at the University of Delaware working with the extraordinary [Dr. Alon Hafri](https://www.psych.udel.edu/people/alon). 
 
 Prior to starting my PhD, I completed a master's degree in applied linguistics under the inimitable [Dr. Charles B. Chang](https://ling.bu.edu/people/chang/) at Boston University. 
 
@@ -15,8 +15,12 @@ I then moved to Amman, Jordan, on a [Fulbright Scholarship](https://us.fulbright
 
 My foray into numerical cognition led me on a splendid journey to Nashville, where I worked with the brilliant [Dr. Gavin Price](https://psychology.exeter.ac.uk/people/profile/index.php?web_id=Gavin_Price) at Vanderbilt University (now at the University of Exeter). 
 
-I simultaneously took my first stab at the PhD application cycle, and whilst unsuccessful, the outcome propelled me to another grand adventure at the University of Pittsburgh working with the ingenious [Dr. Melissa Libertus](https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530).
+I simultaneously took my first stab at the PhD application cycle, and whilst unsuccessful the first go around, the outcome propelled me to another grand adventure at the University of Pittsburgh working with the ingenious [Dr. Melissa Libertus](https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530).
 
 While my academic journey has been anything but linear, I am grateful for the special people and places I have come across so far. If you have a knack for anything <i>language-y, math-y, vision-y, or cog/neuro-y</i> (and perhaps more "y's" in the future), please get in contact with me. I thrive off of intellectual <b>collaboration</b>!
 
-Please enjoy meandering around . . . . 🥾
+Please enjoy meandering around . . . . 👣
+
+# Research Interests
+
+Insert interests
