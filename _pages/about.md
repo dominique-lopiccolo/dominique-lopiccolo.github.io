@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dominique Lopiccolo "
+# title: "Dominique Lopiccolo "
 author_profile: true
 redirect_from: 
   - /about/
