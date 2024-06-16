@@ -1,18 +1,19 @@
 ---
 permalink: /
-title: "Welcome to my site! ☕"
+title: "Hello and welcome! ☕"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! My name is Dominique Lopiccolo. I am a second year PhD student in the Interdisciplinary Neuroscience program at the University of Delaware. Prior to starting my PhD, I completed a bachelor's and master's degree in linguistics. Then I moved to Amman, Jordan, on a Fulbright scholarship to teach at the University of Petra and conduct research on numerical processing in Arabic readers. 
+My name is Dominique Lopiccolo. I am a second year PhD student in the [Interdisciplinary Neuroscience Program](https://www.udel.edu/academics/colleges/grad/prospective-students/programs/interdisciplinary/interdisciplinary-neuroscience/degree-requirements/) at the University of Delaware working with the extraordinary [Dr. Alon Hafri](https://www.psych.udel.edu/people/alon). Prior to starting my PhD, I completed a master's degree in applied linguistics under the inimitable [Dr. Charles B. Chang](https://ling.bu.edu/people/chang/) at Boston University. I then moved to Amman, Jordan, on a [Fulbright Scholarship](https://us.fulbrightonline.org/about/fulbright-us-student-program) to teach at the University of Petra and conduct research on numerical processing in Arabic readers. My foray into numerical cognition led me on a splendid journey to Nashville, where I worked with the brilliant [Dr. Gavin Price](https://psychology.exeter.ac.uk/people/profile/index.php?web_id=Gavin_Price) at Vanderbilt University (now at the University of Exeter). I simultaneously took my first stab at the PhD application cycle, and whilst unsuccessful, the outcome propelled me to another grand adventure at the University of Pittsburgh working with the ingenious [Dr. Melissa Libertus](https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530).
+
+While my academic journey has been anything but linear, I am grateful for the special people and places I have come across so far. If you have a knack for anything language-y, math-y, vision-y, or cog/neuro-y (and perhaps more "y's" in the future), please get in contact with me. I thrive off of intellectual <b>collaboration</b>!
+
+Enjoy meandering around . . . .
 
 
- worked as a research assistant for two years, first with Dr. Gavin Price at Vanderbilt University examining the longitudinal development of numeracy using behavioral and neuroimaging (fMRI) measures and then with Dr. Melissa Libertus at the University of Pittsburgh studying the effects of the home environment on early mathematical development. Before this, I conducted research 
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
