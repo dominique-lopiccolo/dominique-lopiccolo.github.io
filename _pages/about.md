@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Bio 🌱"
+title: "Welcome fellow traveler!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! My name is Dominique Lopiccolo. I am a second year PhD student in the [Interdisciplinary Neuroscience Program](https://www.udel.edu/academics/colleges/grad/prospective-students/programs/interdisciplinary/interdisciplinary-neuroscience/degree-requirements/) at the University of Delaware working with the extraordinary [Dr. Alon Hafri](https://www.psych.udel.edu/people/alon). 
+# Bio 🌱
+
+My name is Dominique Lopiccolo. I am a second year PhD student in the [Interdisciplinary Neuroscience Program](https://www.udel.edu/academics/colleges/grad/prospective-students/programs/interdisciplinary/interdisciplinary-neuroscience/degree-requirements/) at the University of Delaware working with the extraordinary [Dr. Alon Hafri](https://www.psych.udel.edu/people/alon). 
 
 Prior to starting my PhD, I completed a master's degree in applied linguistics under the inimitable [Dr. Charles B. Chang](https://ling.bu.edu/people/chang/) at Boston University. 
 
@@ -21,7 +23,13 @@ While my academic journey has been anything but linear, I am grateful for the sp
 
 Please enjoy meandering around . . . 👣
 
-<p align="left">
+# Travels 🌎
+
+![Dominique in front of the Blue Mosque](/images/istanbul.jpeg){: .align-left width="200px"}
+![Dominique riding a camel](/images/dead-sea.jpg){: .align-center width="200px"}
+![Dominique in Wadi Rum](/images/wadi-rum.jpg){: .align-right width="200px"}
+
+<!-- <p align="left">
   <img src="/images/istanbul.jpeg" alt="Dominique backpacking in Istanbul." width="200" height="200">
   <br>
   <em>"Backpacking Istanbul".</em>
@@ -37,4 +45,5 @@ Please enjoy meandering around . . . 👣
   <img src="/images/wadi-rum.jpg" alt="Dominique in Wadi Rum." width="200" height="200">
   <br>
   <em>"'Hanging out' in Wadi Rum".</em>
-</p>
+</p> -->
+
