@@ -7,18 +7,18 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Interdisciplinary Neuroscience, University of Delaware, 2028 (expected)
+* M.A. in Applied Linguistics, Boston University, 2019
+* B.A. in Teaching English as a Second/Foreign Language with Honors, Liberty University, 2016
 
-Work experience
+Relevant Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* Research Assistant
+  * University of Delaware
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
@@ -61,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
