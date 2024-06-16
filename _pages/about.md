@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Welcome fellow traveler!"
+title: "Welcome to my homepage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
 
 # Bio 🌱
 
@@ -23,11 +25,18 @@ While my academic journey has been anything but linear, I am grateful for the sp
 
 Please enjoy meandering around . . . 👣
 
+
 # Travels 🌎
 
-![Dominique in front of the Blue Mosque](/images/istanbul.jpeg){: .align-left width="200px"}
+<div style="display: flex; justify-content: space-between;">
+  <img src="/images/istanbul.jpeg" alt="Istanbul" style="width: 30%;">
+  <img src="/images/dead-sea.jpg" alt="Camel riding" style="width: 30%;">
+  <img src="/images/wadi-rum.jpg" alt="Wadi Rum" style="width: 30%;">
+</div>
+
+<!-- ![Dominique in front of the Blue Mosque](/images/istanbul.jpeg){: .align-left width="200px"}
 ![Dominique riding a camel](/images/dead-sea.jpg){: .align-center width="200px"}
-![Dominique in Wadi Rum](/images/wadi-rum.jpg){: .align-right width="200px"}
+![Dominique in Wadi Rum](/images/wadi-rum.jpg){: .align-right width="200px"} -->
 
 <!-- <p align="left">
   <img src="/images/istanbul.jpeg" alt="Dominique backpacking in Istanbul." width="200" height="200">
