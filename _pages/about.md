@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "About the Scientist"
+# title: "About the Scientist"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+# Bio 🌱
 
 Hi! My name is Dominique Lopiccolo. I am a second year PhD student in the [Interdisciplinary Neuroscience Program](https://www.udel.edu/academics/colleges/grad/prospective-students/programs/interdisciplinary/interdisciplinary-neuroscience/degree-requirements/) at the University of Delaware working with the extraordinary [Dr. Alon Hafri](https://www.psych.udel.edu/people/alon). 
 
@@ -21,10 +22,10 @@ I simultaneously took my first stab at the PhD application cycle, and whilst uns
 While my academic journey has been anything but linear, I am grateful for the special people and places I have come across so far. If you have a knack for anything <i>language-y</i>, <i>math-y</i>, or <i>cog/neuro-y</i> (and perhaps more "y's" in the future), please get in contact with me. I thrive off of intellectual <b>collaboration</b>!
 
 Please enjoy meandering around . . . 👣
-
+<br><br>
 
 # Travels 🌎
-<br><br>
+
 <div style="display: flex; justify-content: space-between;">
   <img src="/images/istanbul.jpeg" alt="Istanbul" style="width: 30%;">
   <img src="/images/dead-sea.jpg" alt="Camel riding" style="width: 30%;">

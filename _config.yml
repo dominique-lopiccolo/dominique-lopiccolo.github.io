@@ -25,7 +25,7 @@ author:
   name             : "Dominique Lopiccolo"
   # pronouns         : # example: "she/her"  
   bio              : "Cog Neuro PhD Student"
-  location         : "Delaware, U.S.A."
+  # location         : "Delaware, U.S.A."
   employer         : "University of Delaware"
   uri              : # URL
   email            : "dominique.s.lopiccolo@gmail.com" 
