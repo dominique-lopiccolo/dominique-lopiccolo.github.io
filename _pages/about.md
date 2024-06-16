@@ -17,10 +17,10 @@ My foray into numerical cognition led me on a splendid journey to Nashville, whe
 
 I simultaneously took my first stab at the PhD application cycle, and whilst unsuccessful the first go around, the outcome propelled me to another grand adventure at the University of Pittsburgh working with the ingenious [Dr. Melissa Libertus](https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530).
 
-While my academic journey has been anything but linear, I am grateful for the special people and places I have come across so far. If you have a knack for anything <i>language-y, math-y, vision-y, or cog/neuro-y</i> (and perhaps more "y's" in the future), please get in contact with me. I thrive off of intellectual <b>collaboration</b>!
+While my academic journey has been anything but linear, I am grateful for the special people and places I have come across so far. If you have a knack for anything <i>language-y</i>, <i>math-y</i>, or <i>cog/neuro-y</i> (and perhaps more "y's" in the future), please get in contact with me. I thrive off of intellectual <b>collaboration</b>!
 
-Please enjoy meandering around . . . . 👣
+Please enjoy meandering around . . . 👣
 
-# Research Interests
-
-Insert interests
+![Dominique in front of the Blue Mosque in Istanbul](/images/istanbul.jpeg){: .align-left width="300px"}
+![Dominique riding a camel near the Dead Sea](/images/dead-sea.jpg){: .align-center width="300px"}
+![Dominique in Wadi Rum](/images/wadi-rum.jpg){: .align-right width="300px"}
