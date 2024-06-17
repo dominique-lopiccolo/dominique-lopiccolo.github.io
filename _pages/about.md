@@ -26,12 +26,12 @@ While my academic journey has been anything but linear, I am grateful for the sp
 
 <div style="display: flex; justify-content: space-between;">
   <img src="/images/istanbul.jpeg" alt="Istanbul" style="width: 30%;">
-  <img src="/images/dead-sea.jpg" alt="Camel riding" style="width: 30%;">
+  <img src="/images/dead-sea.jpg" alt="Camel Riding" style="width: 30%;">
   <img src="/images/wadi-rum.jpg" alt="Wadi Rum" style="width: 30%;">
 </div>
 
-<!-- <div style="display: flex; justify-content: space-between;">
-  <img src="/images/istanbul.jpeg" alt="Istanbul" style="width: 30%;">
-  <img src="/images/dead-sea.jpg" alt="Camel riding" style="width: 30%;">
-  <img src="/images/wadi-rum.jpg" alt="Wadi Rum" style="width: 30%;">
-</div> -->
+<div style="display: flex; justify-content: space-between;">
+  <img src="/images/milford-sound.jpg" alt="Milford Sound" style="width: 30%;">
+  <img src="/images/hagia-sofia.jpg" alt="Hagia Sofia" style="width: 30%;">
+  <img src="/images/amman-citadel.jpg" alt="Amman Citadel" style="width: 30%;">
+</div>
