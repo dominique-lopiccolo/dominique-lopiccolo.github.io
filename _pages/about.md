@@ -30,7 +30,7 @@ While my academic journey has been anything but linear, I am grateful for the sp
   <img src="/images/wadi-rum.jpg" alt="Wadi Rum" style="width: 30%;">
 </div>
 
-<br><br>
+<br>
 
 <div style="display: flex; justify-content: space-between;">
   <img src="/images/hagia-sofia.jpg" alt="Hagia Sofia" style="width: 30%;">
