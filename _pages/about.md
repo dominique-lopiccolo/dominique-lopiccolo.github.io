@@ -20,6 +20,8 @@ My foray into numerical cognition led me on a splendid journey to Nashville, whe
 I simultaneously took my first stab at the PhD application cycle, and whilst unsuccessful the first go around, the outcome propelled me to another grand adventure at the University of Pittsburgh working with the ingenious [Dr. Melissa Libertus](https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530).
 
 While my academic journey has been anything but linear, I am grateful for the special people and places I have come across so far. If you have a knack for anything <i>language-y</i>, <i>math-y</i>, or <i>cog/neuro-y</i>, please drop me a note. I thrive off of intellectual <b>collaboration</b>!
+
+When not doing science, I enjoy drinking americanos, exploring new countries, and singing. 
 <br><br>
 
 ## Travels 🌎
