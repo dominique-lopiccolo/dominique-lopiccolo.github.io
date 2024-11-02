@@ -15,7 +15,7 @@ Prior to starting my PhD, I completed a master's degree in applied linguistics u
 
 I then moved to Amman, Jordan, on a [Fulbright Scholarship](https://us.fulbrightonline.org/about/fulbright-us-student-program) to teach at the University of Petra and conduct research on numerical processing in Arabic readers. 
 
-My foray into numerical cognition led me on a splendid journey to Nashville, where I worked with the brilliant [Dr. Gavin Price](https://psychology.exeter.ac.uk/people/profile/index.php?web_id=Gavin_Price) at Vanderbilt University (now at the University of Exeter). 
+My foray into numerical cognition led me on a splendid journey to Nashville, where I worked with the brilliant [Dr. Gavin Price](https://experts.exeter.ac.uk/39113-gavin-price) at Vanderbilt University (now at the University of Exeter). 
 
 I simultaneously took my first stab at the PhD application cycle, and whilst unsuccessful the first go around, the outcome propelled me to another grand adventure at the University of Pittsburgh working with the ingenious [Dr. Melissa Libertus](https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530).
 
