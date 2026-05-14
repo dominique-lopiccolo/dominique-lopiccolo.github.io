@@ -17,6 +17,6 @@ Representational momentum (RM) is a bias in visual memory whereby moving or chan
 
 ## Demo
 
-<a href="http://dsl.palresearch.org/rm/demos/rm-demo.html" target="_blank" class="btn btn--primary">
+<a href="http://dsl.palresearch.org/rm/rm-demo.html" target="_blank" class="btn btn--primary">
   Tryout the experiment yourself!
 </a>
