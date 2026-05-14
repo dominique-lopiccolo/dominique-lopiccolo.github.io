@@ -1,0 +1,19 @@
+.demo-button {
+  display: inline-block;
+  background-color: #2f6fed;
+  color: #ffffff !important;
+  border: 2px solid #2f6fed;
+  border-radius: 10px;
+  padding: 0.8em 1.25em;
+  font-weight: 700;
+  text-decoration: none;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.demo-button:hover {
+  background-color: #1f4fbf;
+  border-color: #1f4fbf;
+  color: #ffffff !important;
+  text-decoration: none;
+  transform: translateY(-2px);
+}
