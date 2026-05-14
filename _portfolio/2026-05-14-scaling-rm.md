@@ -8,7 +8,7 @@ permalink: /projects/scaling-rm/
 ## Demo
 
 <a href="http://dsl.palresearch.org/rm/rm-demo.html" target="_blank" class="btn demo-button">
-  Try out the experiment yourself!
+  Click here to try out the experiment yourself!
 </a>
 
 ## Project Abstract
