@@ -1,5 +1,5 @@
 ---
-title: "The Interplay between Representational Momentum and Remembered Size"
+title: "The interplay between representational momentum and remembered size"
 excerpt: "An experiment investigating how two different biases influence visual memory."
 collection: portfolio
 permalink: /projects/scaling-rm/
