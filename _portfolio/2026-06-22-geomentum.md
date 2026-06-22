@@ -1,0 +1,16 @@
+---
+title: "Sizing up a bias in geometric reasoning: How instructional contexts and visuospatial constraints impact performance"
+excerpt: "An experiment investigating biases in geometric reasoning and how to debias them."
+collection: portfolio
+permalink: /projects/geomentum/
+---
+
+## Project Abstract
+
+Geometric reasoning is a special form of deductive inference that involves evaluating spatial relations and their logical consequences (e.g., whether a geometric conclusion necessarily follows from a set of premises). Although geometric reasoning improves over development, recent work has revealed systematic errors even in adults. In particular, Hamami and Amalric discovered that adults often fail to determine that a geometric conclusion is invalid if finding a counterexample requires scaling (e.g., imagining shapes as smaller or larger) rather than only translation (e.g., moving shapes up or down). This became evident when participants failed to find the counterexample for the same inference when it was paired with a diagram that required scaling but succeeded when paired with a diagram that permitted disconfirmation by translation alone. They called this bias the Locking Property (LP) because participants appeared mentally “locked” into the given spatial configuration, preventing them from considering alternatives involving scaling. The discovery of this bias raises a question: is it merely due to a task-based assumption about which geometric transformations are permitted, or does it reflect a deeper constraint in visuospatial reasoning? We explored this question by reproducing the task with and without explicit instruction on allowable transformations. In Experiment 1, we simplified the original task by using fewer premises (e.g., “The green dot is always inside the blue circle. The green dot is always on the orange circle.”) and a two-alternative forced-choice paradigm (e.g., “Yes or No: Must the blue circle always intersect the orange circle?”). Even in this simplified context, participants performed worse on inferences that required scaling versus those only requiring translation, replicating the LP bias. In Experiment 2, we explicitly instructed participants that they could use translation and scaling when evaluating inferences. If the LP bias is due to a task-based assumption, then the bias should be eliminated in this context. However, if the bias reflects a deeper visuospatial constraint, then it should remain. Results were consistent with the latter: while participants improved (relative to Experiment 1) on inferences that required scaling, the performance difference between inferences requiring scaling and those that did not remained. Therefore, the LP bias is not the result of a mistaken task-based assumption about permissible transformations but instead reflects a deeper visuospatial constraint that is difficult to overcome. This work sheds light on what cognitive mechanisms underlie geometric reasoning and suggests ways to improve geometric reasoning in educational contexts.
+
+## Updates
+
+**June 23, 2026** — This project will be presented as an individual talk at the Mathematical Cognition and Learning Society Conference in Padua, Italy, on Tuesday, June 23, 2026.
+
+**June 10, 2026** — A preprint of the project will become available in December 2026 (stay tuned!).
