@@ -17,6 +17,6 @@ Representational momentum (RM) is a bias in visual memory whereby moving or chan
 
 ## Updates
 
-**May 14, 2026** — This project will be presented as a poster at the Vision Sciences Society Conference on Saturday, May 16, 2026.
+**May 14, 2026** — This project will be presented as a poster at the Vision Sciences Society Conference in St. Pete Beach, Florida, on Saturday, May 16, 2026.
 
 **April 10, 2026** — A preprint of the project will become available in July 2026 (stay tuned!).
