@@ -20,7 +20,7 @@ Broadly, my research focuses on the intersection between visual perception and m
 One thing to know about me is that I am extremely sociable, and I love any opportunity to meet new people and chat science. Shoot me an [email](mailto:domlopneuro@gmail.com) if you fancy chatting more!
 
 When not doing science, I enjoy drinking Americanos, exploring new countries, and learning the latest Tik Tok choreo.
-<br><br>
+<br>
 
 ## Travels 🌎
 
