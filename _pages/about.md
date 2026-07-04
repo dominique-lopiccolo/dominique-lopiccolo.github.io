@@ -2,26 +2,22 @@
 permalink: /
 # title: "Dominique Lopiccolo"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+
 <br>
 
 ## About Me 🖋️
-Hi! My name is Dominique, and I am a PhD student in the [Interdisciplinary Neuroscience Program](https://www.udel.edu/academics/colleges/grad/prospective-students/programs/interdisciplinary/interdisciplinary-neuroscience/degree-requirements/) at the University of Delaware working with the extraordinary [Dr. Alon Hafri](https://pal.lingcogsci.udel.edu/team/). 
 
-Prior to starting my PhD, I completed a master's degree in applied linguistics under the inimitable [Dr. Charles B. Chang](https://cbchang.com/) at Boston University (now at the City University of Hong Kong). 
+Hi! My name is Dominique, and I am a PhD student in the [Interdisciplinary Neuroscience Program](https://www.udel.edu/academics/colleges/grad/prospective-students/programs/interdisciplinary/interdisciplinary-neuroscience/degree-requirements/) advised by [Dr. Alon Hafri](https://pal.lingcogsci.udel.edu/team/) at the University of Delaware.
 
-I then moved to Amman, Jordan, on a [Fulbright Scholarship](https://us.fulbrightonline.org/about/fulbright-us-student-program) to teach at the University of Petra and conduct research on numerical processing in Arabic readers. 
+Prior to my PhD, I received research training from a number of excellent scientists including [Dr. Charles B. Chang](https://cbchang.com/) at Boston University (now at the City University of Hong Kong), [Dr. Gavin Price](https://experts.exeter.ac.uk/39113-gavin-price) at Vanderbilt University (now at the University of Exeter), and [Dr. Melissa Libertus](https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530) at the University of Pittsburgh.
 
-My foray into numerical cognition led me on a splendid journey to Nashville, where I worked with the brilliant [Dr. Gavin Price](https://experts.exeter.ac.uk/39113-gavin-price) at Vanderbilt University (now at the University of Exeter). 
+Broadly, my research focuses on the intersection between visual perception and mathematical cognition. Currently, I am interested in uncovering biases (perceptual and cognitive) that influence geometric reasoning. The primary goal of my research is two-fold: (1) to inform basic knowledge on the way humans come to learn mathematics and (2) to apply this basic knowledge to improve mathematical learning.
 
-I simultaneously took my first stab at the PhD application cycle, and whilst unsuccessful the first go around, the outcome propelled me to another grand adventure at the University of Pittsburgh working with the ingenious [Dr. Melissa Libertus](https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530).
-
-While my academic journey has been anything but linear, I am grateful for the special people and places I have come across so far. If you have a knack for anything <i>language-y</i>, <i>math-y</i>, or <i>cog/neuro-y</i>, please drop me a note. I thrive off of intellectual <b>collaboration</b>!
-
-When not doing science, I enjoy drinking americanos, exploring new countries, and singing. 
+One thing to know about me is that I am extremely sociable, and I love any opportunity to meet new people and chat science. Shoot me an [email](domlopneuro@gmail.com) if you fancy chatting more!
 <br><br>
 
 ## Travels 🌎
