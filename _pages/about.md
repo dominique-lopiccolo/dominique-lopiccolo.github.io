@@ -15,9 +15,11 @@ Hi! My name is Dominique, and I am a PhD student in the [Interdisciplinary Neuro
 
 Prior to my PhD, I received research training from a number of excellent scientists including [Dr. Charles B. Chang](https://cbchang.com/) at Boston University (now at the City University of Hong Kong), [Dr. Gavin Price](https://experts.exeter.ac.uk/39113-gavin-price) at Vanderbilt University (now at the University of Exeter), and [Dr. Melissa Libertus](https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530) at the University of Pittsburgh.
 
-Broadly, my research focuses on the intersection between visual perception and mathematical cognition. Currently, I am interested in uncovering biases (perceptual and cognitive) that influence geometric reasoning. The primary goal of my research is two-fold: (1) to inform basic knowledge on the way humans come to learn mathematics and (2) to apply this basic knowledge to improve mathematical learning.
+Broadly, my research focuses on the intersection between visual perception and mathematical cognition. Currently, I am interested in uncovering biases (perceptual and cognitive) that influence geometric reasoning. The primary goal of my research is to deepen our basic understanding of the way humans perceive and reason about space. I am specifically interested in how these processes influence mathematical learning. In the future, I aim to apply this basic knowledge to help inform mathematical instruction.
 
-One thing to know about me is that I am extremely sociable, and I love any opportunity to meet new people and chat science. Shoot me an [email](domlopneuro@gmail.com) if you fancy chatting more!
+One thing to know about me is that I am extremely sociable, and I love any opportunity to meet new people and chat science. Shoot me an [email](mailto:domlopneuro@gmail.com) if you fancy chatting more!
+
+When not doing science, I enjoy drinking Americanos, exploring new countries, and learning the latest Tik Tok choreo.
 <br><br>
 
 ## Travels 🌎
