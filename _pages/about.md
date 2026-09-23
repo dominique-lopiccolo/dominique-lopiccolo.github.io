@@ -13,7 +13,7 @@ redirect_from:
 
 Hi! My name is Dominique Lopiccolo, and I am a PhD student in the [Interdisciplinary Neuroscience Program](https://www.udel.edu/academics/colleges/grad/prospective-students/programs/interdisciplinary/interdisciplinary-neuroscience/degree-requirements/) advised by [Dr. Alon Hafri](https://pal.lingcogsci.udel.edu/team/) at the University of Delaware.
 
-Prior to my PhD, I received research training from a number of excellent scientists including [Dr. Charles B. Chang](https://cbchang.com/) at Boston University (now at the City University of Hong Kong), [Dr. Gavin Price](https://experts.exeter.ac.uk/39113-gavin-price) at Vanderbilt University (now at the University of Exeter), and [Dr. Melissa Libertus](https://www.lrdc.pitt.edu/people/researcher-detail.cshtml?id=530) at the University of Pittsburgh.
+Prior to my PhD, I received research training from a number of excellent scientists including [Dr. Charles B. Chang](https://cbchang.com/) at Boston University (now at the City University of Hong Kong), [Dr. Gavin Price](https://experts.exeter.ac.uk/39113-gavin-price) at Vanderbilt University (now at the University of Exeter), and [Dr. Melissa Libertus](https://psychsciences.case.edu/faculty/melissa-libertus/) at the University of Pittsburgh (now at Case Western Reserve University).
 
 Broadly, my research focuses on the intersection between visual perception and mathematical cognition. Currently, I am interested in uncovering biases (perceptual and cognitive) that influence geometric reasoning. The primary goal of my research is to deepen our basic understanding of the way humans perceive and reason about space and how this influences mathematical learning.
 
